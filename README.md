@@ -21,6 +21,26 @@
 
 ---
 
+## 📖 About GLX Retrieve
+
+### Closed a tab by accident? Get it back
+
+GLX Retrieve brings back tabs you closed by accident. A keyboard shortcut restores the last closed tab immediately, without searching through the history.
+
+### List of closed pages
+
+The toolbar button opens a pop-up with the recently closed pages, showing title and address. One click brings back the one you want.
+
+### Complete with history and scroll position
+
+Whenever possible the complete session of the tab is restored, including its history and scroll position, so the page opens exactly where you left it. If that is no longer available, the address is simply opened again.
+
+### Your settings, your privacy
+
+In the settings you choose how many pages are remembered, the keyboard shortcut and the colour design. No data is sent to third parties; everything stays locally in your browser.
+
+---
+
 ## ✨ Features
 
 - 🚀 **Undo closed tabs:** Brings back tabs you closed by accident.

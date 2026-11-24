@@ -21,6 +21,26 @@
 
 ---
 
+## 📖 Über GLX Retrieve
+
+### Tab aus Versehen geschlossen? Hol ihn zurück
+
+GLX Retrieve holt Tabs zurück, die du aus Versehen geschlossen hast. Ein Tastenkürzel stellt den zuletzt geschlossenen Tab sofort wieder her, ohne Suchen im Verlauf.
+
+### Liste der geschlossenen Seiten
+
+Der Button in der Symbolleiste öffnet ein Fenster mit den zuletzt geschlossenen Seiten samt Titel und Adresse. Ein Klick holt die gewünschte zurück.
+
+### Komplett mit Verlauf und Scrollposition
+
+Wann immer möglich wird die komplette Sitzung des Tabs wiederhergestellt, mit Verlauf und Scrollposition, die Seite öffnet sich also genau dort, wo du warst. Ist das nicht mehr möglich, wird einfach die Adresse wieder geöffnet.
+
+### Deine Einstellungen, deine Privatsphäre
+
+In den Einstellungen wählst du, wie viele Seiten gemerkt werden, das Tastenkürzel und das Farb-Design. Es gehen keine Daten an Dritte, alles bleibt lokal in deinem Browser.
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Geschlossene Tabs zurückholen:** Hol zurück, was du aus Versehen geschlossen hast.
